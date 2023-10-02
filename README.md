@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Did you know that the first commit to the Linux kernel repository was made on April 17, 1991?**
   
-- Can you [Protect Lawo](https://lawo69.github.io/Protect-Lawo-Game/)
+- Can you [Protect Lawo ?](https://lawo69.github.io/Protect-Lawo-Game/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
