@@ -3,7 +3,6 @@
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/52/83/7a/52837ac7f63a8a73a50ffe42a14fb446.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lawo69&label=Profile%20views&color=0e75b6&style=flat" alt="lawo69" /> </p>
 
 
 - 🔭 I’m currently working on **OBUDDY Mobile Application**
