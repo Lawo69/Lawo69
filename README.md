@@ -1,19 +1,19 @@
-![MasterHead](https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQEqPgoNmP5wRQ/profile-displaybackgroundimage-shrink_350_1400/0/1712471726178?e=1718236800&v=beta&t=zEwEQgVTc7axqmnmW-fbGSU4nLirbu2X24hM70TZjxQ)
 <h1 align="center">Hi 👋, I'm Supun gunawardhana</h1>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/52/83/7a/52837ac7f63a8a73a50ffe42a14fb446.gif">
 
 
 <br/>
-- 🔭 I’m currently working on **OBUDDY Mobile Application**
 
-- 🌱 I’m currently learning **React | Flutter**
+- 🔭 I’m currently working on **KINA RAIN Game Website**
+
+- 🌱 I’m currently learning **NextJs | Flutter**
 
 - 👯 I’m looking to collaborate on **Web Dev Projects (React) or Mobile Application Dev Projects (Flutter | React Native)**
 
 - 📝 I regularly write articles on [techwadiya](https://techwadiya.us/)
 
-- 💬 Ask me about **React | Flutter | Android**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **supungunawardana.me@gmail.com**
 
