@@ -5,7 +5,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **KINA RAIN Game Website**
+- 🔭 I’m currently working on **TVEC Website**
 
 - 🌱 I’m currently learning **NextJs | Flutter**
 
