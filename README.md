@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQEqPgoNmP5wRQ/profile-displaybackgroundimage-shrink_350_1400/0/1712471726178?e=1718236800&v=beta&t=zEwEQgVTc7axqmnmW-fbGSU4nLirbu2X24hM70TZjxQ)
+![MasterHead](https://drive.google.com/file/d/1vwNtSDWWPsXdpBkKSVva89NZfHHsF9q5/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Supun gunawardhana</h1>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
 
