@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQEqPgoNmP5wRQ/profile-displaybackgroundimage-shrink_350_1400/0/1712471726178?e=1724284800&v=beta&t=FXr0GZxn35oK1VrQSc2tCS7GSj1Q92Qk1tMF5MVcrw4)
+![MasterHead]([https://media.licdn.com/dms/image/D5616AQEqPgoNmP5wRQ/profile-displaybackgroundimage-shrink_350_1400/0/1712471726178?e=1724284800&v=beta&t=FXr0GZxn35oK1VrQSc2tCS7GSj1Q92Qk1tMF5MVcrw4](https://media.licdn.com/dms/image/v2/D5616AQEqPgoNmP5wRQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712471726178?e=1731542400&v=beta&t=f6FB66m8IhD-F3vVUhsL_qtxiiP8IYWjkwlZtDWkOP8))
 <h1 align="center">Hi 👋, I'm Supun gunawardhana</h1>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
 
