@@ -5,11 +5,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on **CeylonX HR System**
+- 🔭 I’m currently working on **Sanrom Pharmacy POS**
 
 - 🌱 I’m currently learning **NextJs | Flutter**
 
-- 👯 I’m looking to collaborate on **Web Dev Projects (React) or Mobile Application Dev Projects (Flutter | React Native)**
+- 👯 I’m looking to collaborate on **Web Dev Projects (ReactJs) or Mobile Application Dev Projects (Flutter)**
 
 - 📝 I regularly write articles on [techwadiya](https://techwadiya.us/)
 
